@@ -37,11 +37,11 @@ To use the Macro Keypad, follow these steps:
     
 2. Print the case, the switch holder, and the keycaps.
     - You can also use your own keycaps if you prefer.
-    - [Download STL File](3dModels/macro.stl)
-    ![blender](img/macroCase.png)
+    - [Download STL File](3dModels\macro.stl)
+    ![blender](img\marcoCase.png)
     ###
-    - [Download STL File](3dModels/keycapsAllHigh.stl)
-    ![blender](img/keycaps.png)
+    - [Download STL File](3dModels\keycapsAllHigh.stl)
+    ![blender](img\kaycaps.png)
     ###
 3. Assemble the components together.
 
